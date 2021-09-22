@@ -1,0 +1,7 @@
+C:\Users\w0455811\Documents\Variables HUD\bin\Debug\Variables HUD.exe.config
+C:\Users\w0455811\Documents\Variables HUD\bin\Debug\Variables HUD.exe
+C:\Users\w0455811\Documents\Variables HUD\bin\Debug\Variables HUD.pdb
+C:\Users\w0455811\Documents\Variables HUD\obj\Debug\Variables HUD.csproj.CoreCompileInputs.cache
+C:\Users\w0455811\Documents\Variables HUD\obj\Debug\Variables HUD.exe
+C:\Users\w0455811\Documents\Variables HUD\obj\Debug\Variables HUD.pdb
+C:\Users\w0455811\Documents\Variables HUD\obj\Debug\Variables HUD.csproj.AssemblyReference.cache
